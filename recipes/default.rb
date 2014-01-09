@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: wp_cookbook-cookbook
+# Cookbook Name:: wp-cookbook
 # Recipe:: default
 #
 # Copyright 2013, Scott Walkinshaw
